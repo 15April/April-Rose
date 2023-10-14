@@ -1,0 +1,41 @@
+body {
+    background-image: url("tandog.avif");
+    background-size: cover; /* Adjust the value as needed */
+    background-repeat: no-repeat;
+    /* Add any other CSS styles you want here */
+  }
+  
+  .Beautiful-Beach {
+    color: rgb(10, 8, 6);
+    text-align: center;
+    block-size: 20px;
+    outline: auto;
+  }
+  
+  .title-pic {
+    color: rgb(202, 188, 197);
+  }
+  
+  .center-container {
+    height: 100vh; /* Make the container full height of the viewport */
+    flex-direction: column;
+  }
+  
+  .Reference-text {
+    color: rgb(7, 9, 20);
+  }
+  
+  .text-panel {
+    background-color: rgba(
+      255,
+      255,
+      255,
+      0.8
+    ); /* Background color with some transparency */
+    padding: 10px; /* Add padding for spacing around the text */
+  }
+  
+  .text-panel p {
+    margin: 0; /* Remove default margin for the paragraph inside the panel */
+  }
+  
